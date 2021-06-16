@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manga House</string>
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="tv_google">Entrar com o Google</string>
+    <string name="ed_password">Senha</string>
+    <string name="ed_email">Email</string>
+    <string name="tv_category">Categoria</string>
+    <string name="tv_phone_title">Número de Telefone</string>
+    <string name="tv_phone_caption">Por favor digite seu n° de telefone</string>
+    <string name="ed_username">Usuário</string>
+    <string name="btn_signup">Entrar</string>
+    <string name="btn_login">Login</string>
+    <string name="ed_search">Pesquisar</string>
+    <string name="tv_welcome">Faça login para continuar</string>
+    <string name="tv_phone">Entrar com Telefone</string>
+    <string name="pb_loading">Carregando…</string>
+    <string name="menu_explorer">Explorar</string>
+    <string name="menu_library">Biblioteca</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="tv_email">Entrar com Email</string>
+    <string name="btn_phone">Continuar</string>
+    <string name="tv_phoneCode_title">Código de verificação</string>
+    <string name="tv_phoneCode_caption">
+        Entre com o código de verificação enviado para +55(XXX)XXXXX-XXXX
+    </string>
+    <string name="tv_resendCode">Não recebeu o OTP? <b>reenviar</b></string>
+    <string name="btn_resendCode">Enviar</string>
+    <string name="pd_title">Aguarde…</string>
+    <string name="msg_phone_null">Entre com um n° de telefone</string>
+    <string name="msg_phone_code">Entre com o código de verificação…</string>
+    <string name="msg_phone_verify">Verificando n° de telefone</string>
+    <string name="msg_phone_resendCode">Verificando código</string>
+    <string name="msg_phone_resend">Reenviando código</string>
+    <string name="msg_phone_success">"Logado como "</string>
+    <string name="msg_phone_sigin">Fazendo login</string>
+    <string name="msg_phone_codeSend">Código de verificação enviado…</string>
+    <string name="msg_phone_sendCode">"Digite o código que enviamos para "</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202254891317",
+    "firebase_url": "https://manga-ca3c3.firebaseio.com",
+    "project_id": "manga-ca3c3",
+    "storage_bucket": "manga-ca3c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202254891317:android:530d7084c913eae170747c",
+        "android_client_info": {
+          "package_name": "com.example.mymanga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202254891317-cjqa50ia197i3jn7uvmdj8m7qlcurh94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymanga",
+            "certificate_hash": "177a4a534594dfb801b53a145c439249b85fe3d2"
+          }
+        },
+        {
+          "client_id": "202254891317-qo1jhuh25k16gqgsbtiu0ucnn1liuj7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFMhNjAyeNp4IdX8elcWMWK26Z7pyNfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202254891317-qo1jhuh25k16gqgsbtiu0ucnn1liuj7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

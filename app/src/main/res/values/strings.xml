@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Manga House</string>
+    <string name="hello_blank_fragment" translatable="true">Hello blank fragment</string>
+    <string name="tv_welcome" translatable="true">Make login to continue</string>
+    <string name="ed_password" translatable="true">Password</string>
+    <string name="ed_email">Email</string>
+    <string name="msg_phone_null" translatable="true">Please enter phone number</string>
+    <string name="pd_title">Please wait…</string>
+    <string name="btn_resendCode" translatable="true">Submit</string>
+    <string name="tv_resendCode" translatable="true">Didn\'t get OTP? <b>Resend</b></string>
+    <string name="tv_category" translatable="true">Category</string>
+    <string name="iv_cont_manga" translatable="false">Imagem</string>
+    <string name="tv_profile" translatable="false">Profile text</string>
+    <string name="tv_uid" translatable="false">Uid text</string>
+    <string name="et_phone_hint" translatable="false">+55(XXX)XXXXXXXXX</string>
+    <string name="tv_phone_caption" translatable="true">Please Enter Your Phone Number</string>
+    <string name="btn_phone" translatable="true">Continue</string>
+    <string name="tv_phoneCode_title" translatable="true">Verification Code</string>
+    <string name="tv_phoneCode_caption" translatable="true">
+        Please enter the verification code we sent\nto +55(XXX)XXXXX-XXXX
+    </string>
+    <string name="default_web_id_token" translatable="false">
+        202254891317-qo1jhuh25k16gqgsbtiu0ucnn1liuj7b.apps.googleusercontent.com
+    </string>
+    <string name="tv_phone_title" translatable="true">Phone Number</string>
+    <string name="tv_google" translatable="true">Enter with Google</string>
+    <string name="tv_phone" translatable="true">Enter with telephone</string>
+    <string name="tv_email" translatable="true">Enter with Email</string>
+    <string name="ed_username" translatable="true">Username</string>
+    <string name="btn_signup" translatable="true">Sign Up</string>
+    <string name="pb_loading" translatable="true">Loading…</string>
+    <string name="menu_explorer" translatable="true">Explorer</string>
+    <string name="menu_library" translatable="true">Library</string>
+    <string name="menu_profile" translatable="true">Profile</string>
+    <string name="btn_login">Login</string>
+    <string name="ed_search" translatable="true">Search</string>
+    <string name="msg_phone_code" translatable="true">Please enter verification code…</string>
+    <string name="msg_phone_verify" translatable="true">Verifying Phone Number</string>
+    <string name="msg_phone_resendCode" translatable="true">Verifying Code</string>
+    <string name="msg_phone_resend" translatable="true">Resending Code</string>
+    <string name="msg_phone_sigin" translatable="true">Logging In</string>
+    <string name="msg_phone_success" translatable="true">Logged In as </string>
+    <string name="msg_phone_codeSend" translatable="true">Verification code sent…</string>
+    <string name="msg_phone_sendCode" translatable="true">Please enter the verification code we sent</string>
+</resources>

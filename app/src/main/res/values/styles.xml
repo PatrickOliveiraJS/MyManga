@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Color of icons from MainActivity -->
+        <item name="colorPrimary">@color/black</item>
+        <!-- Top bar from windows -->
+        <item name="colorPrimaryDark">@color/blue</item>
+        <!-- Color of border box of EditText -->
+        <item name="colorAccent">@color/black</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="CardView.ProgressBtn">
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="ProgressBar">
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateTint">@color/black</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="TextViewProgressBtn">
+        <item name="android:text">@string/tv_google</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="EditTextView">
+        <item name="android:padding">10dp</item>
+        <item name="android:textColorHint">#c5c5c5</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>
